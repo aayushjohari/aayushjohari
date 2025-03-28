@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Aayush Johari</h1>
 <h3 align="center">Data Scientist looking forward to data</h3>
 
@@ -26,4 +25,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushjohari&show_icons=true&locale=en&layout=compact" alt="aayushjohari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushjohari&" alt="aayushjohari" /></p>
-
